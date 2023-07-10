@@ -1,6 +1,9 @@
-#Hello
+<p><span style="font-size:20px"><u>Hello</u></span></p>
 
-This is a test to see if Github hosting is a viable option for Chromebooks
-If you can see this while on a Chromebook,
+<p>This is a test to see if Github is a viable option for bypassing the new smelly blocker</p>
 
-This is a <p><span style="color:#2ecc71">Success</span></p>
+<p>If you see this while on a Chromebook, this means it is a <strong><span style="color:#2ecc71">success!</span></strong></p>
+
+<p>&nbsp;</p>
+
+<p>😎</p>
