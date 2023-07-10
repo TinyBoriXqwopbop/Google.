@@ -10,7 +10,7 @@
 
 <p style="text-align:center">&nbsp;</p>
 
-<p><span style="font-family:Georgia,serif">&lt;details&gt;<br />
+<details>
 &nbsp; &lt;summary&gt;<span style="font-size:36px">Gams</span>&lt;/summary&gt;<br />
 &nbsp;&nbsp;<br />
 &nbsp; ### List<br />
