@@ -7,7 +7,7 @@
 <p style="text-align:center"><span style="font-family:Georgia,serif"><span style="font-size:16px">This website contains gams and stuff ok bye</span></span></p>
 
 <p style="text-align:center">&nbsp;</p>
------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------
 <p style="text-align:center">&nbsp;</p>
 <p><span style="font-family:Georgia,serif"><u><span style="font-size:72px">Things</span></u><br />
 <Details>
