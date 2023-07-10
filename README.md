@@ -10,10 +10,8 @@
 
 <p style="text-align:center">&nbsp;</p>
 
-<details>
-&nbsp; &lt;summary&gt;<span style="font-size:36px">Gams</span>&lt;/summary&gt;<br />
-&nbsp;&nbsp;<br />
-&nbsp; ### List<br />
+<Gams>
+&nbsp; List<br />
 &nbsp; &nbsp; &nbsp;* <a href="https://theguy888.github.io/EvenBetterThanMinekhan/">Minecraft</a><br />
 &nbsp; &nbsp; &nbsp;* <a href="https://kdata1.com/2020/05/slope/">Slope</a><br />
 &nbsp; &nbsp; &nbsp;* <a href="https://images-opensocial.googleusercontent.com/gadgets/ifr?url=https://37406915-471836402253847146.preview.editmysite.com/uploads/b/139890129-165727670653336700/files/at2.xml">Awesome Tanks 2</a><br />
