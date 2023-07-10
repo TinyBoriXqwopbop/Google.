@@ -10,7 +10,7 @@
 
 <p style="text-align:center">&nbsp;</p>
 
-<Gams>
+<Details>
 &nbsp; List<br />
 &nbsp; &nbsp; &nbsp;* <a href="https://theguy888.github.io/EvenBetterThanMinekhan/">Minecraft</a><br />
 &nbsp; &nbsp; &nbsp;* <a href="https://kdata1.com/2020/05/slope/">Slope</a><br />
