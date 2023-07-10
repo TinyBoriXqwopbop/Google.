@@ -18,7 +18,7 @@
 
 <p><span style="font-family:Georgia,serif">I haven&#39;t bothered to add all the games yet.</span></p>
 
-<p><span style="font-family:Georgia,serif">Will do later</span></p>>
+<p><span style="font-family:Georgia,serif">Will do later</span></p>
 
 
 <p><span style="font-family:Georgia,serif"><u><span style="font-size:72px">Rammerhead Links</span></u><br />
@@ -26,4 +26,4 @@
 &nbsp; &nbsp; &nbsp;* <a href="https://coolsharks.info">Link 1</a><br />
 &nbsp; &nbsp; &nbsp;* <a href="https://www.typeracer.gq">Link 2</a><br />
 &nbsp; &nbsp; &nbsp;* <a href="https://www.quizlet.gq">Link 3</a><br />
-&nbsp; &nbsp; &nbsp;* <a href="https://cloudflare.rammerhead.org">Link 4</a></span></p>>
+&nbsp; &nbsp; &nbsp;* <a href="https://cloudflare.rammerhead.org">Link 4</a></span></p>
